@@ -13,6 +13,8 @@ In this section, you will setup the project for your GraphQL server and implemen
 
 This tutorial teaches you how to build a GraphQL server from scratch, so the first thing you need to do is create the directory that'll hold the files for your GraphQL server!
 
+<img src="http://www.letufun.com:8000/letu_resource/0101/move.png"></img>
+
 <Instruction>
 
 Open your terminal, navigate to a location of your choice and run the following commands:
@@ -265,4 +267,3 @@ There are a few things to note:
 As you provide this information, the `Prisma` instance will get full access to your database service and can be used to resolve incoming request later on.
 
 Phew, enough theory 😠 Let's go and write some code again!
-
